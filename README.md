@@ -137,7 +137,7 @@ Hierarchical clustering was applied to compare segmentation quality and cluster 
 
 ### PCA (Principal Component Analysis)
 
-- We was not perform PCA because:
+- We did not perform PCA because:
 
    - Feature Count is 8 (Low). 
    - Cluster Quality: 0.474 silhouette score, means good separation.
