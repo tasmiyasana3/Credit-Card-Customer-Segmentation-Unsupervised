@@ -63,7 +63,7 @@ These columns were removed because they were unique identifiers and not useful f
 - Scikit-learn
 - SciPy
 - Yellowbrick
-- Jupyter Notebook
+- Google Collab Notebook
 
 ---
 
@@ -138,7 +138,7 @@ Hierarchical clustering was applied to compare segmentation quality and cluster 
 ### PCA (Principal Component Analysis)
 
 PCA was used for:
-- Dimensionality reduction
+- Dimensionality reduction - not immplemented as it was not needed for this project
 - Cluster visualisation
 - Better interpretation of customer groups
 
