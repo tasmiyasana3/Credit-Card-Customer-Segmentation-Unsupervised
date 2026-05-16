@@ -137,10 +137,13 @@ Hierarchical clustering was applied to compare segmentation quality and cluster 
 
 ### PCA (Principal Component Analysis)
 
-PCA was used for:
-- Dimensionality reduction - not immplemented as it was not needed for this project
-- Cluster visualisation
-- Better interpretation of customer groups
+- We was not perform PCA because:
+
+   - Feature Count is 8 (Low). 
+   - Cluster Quality: 0.474 silhouette score, means good separation.
+   - Interpretability: Clear segments and 3 distinct customer groups (k=3).
+   - Correlation matrix value < 0.9, No severe multicollinearity detected.
+   - Dataset size: Size of our dataset is too small.
 
 ---
 
