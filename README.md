@@ -200,14 +200,17 @@ K-Means clustering provided:
 - `Credit Card Customer Data.xlsx— Complete dataset file
 - `README.md` — Project documentation
 
----
 
-## Author
-
-Tasmiya Sana
 
 ---
 
 ## Conclusion
 
 This project demonstrates how unsupervised learning techniques can help banks better understand customer behaviour and segment users into meaningful groups. By leveraging clustering algorithms, businesses can improve customer engagement, optimise service delivery, and create data-driven marketing strategies.
+
+
+---
+
+## Author
+
+Tasmiya Sana
